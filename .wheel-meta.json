@@ -1,0 +1,22 @@
+{
+  "wheel_id": 664,
+  "structure": "umbrella",
+  "slug": "theseocompanymelbourne-com-151",
+  "project": "seo-services-melbourne-pros-and-cons-4c20a0f0c2fef4f23b9244fb09",
+  "parent_t1_ref": "theseocompanymelbourne.com-005",
+  "node_role": "buffer",
+  "money_target": "theseocompanymelbourne.com.au",
+  "primary_kw": "seo services melbourne pros and cons",
+  "intended_url": "https://sites-e470-2.web.app/seo-services-melbourne-pros-and-cons-4c20a0f0c2fef4f23b9244fb09/",
+  "tier": "T2",
+  "writeback_nonce": "a0ad9d68269b4aed",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/seo-services-melbourne/",
+      "anchor": "Seo Services Melbourne: For Comparing Local Providers",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
